@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: e64ce4affc0968049b9a0e8fdfbaeba6
+guid: 638f12cdf13235645a94eb13e9582ffe
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4012884924022809532
-    second: Stripes_0
+      213: 9204605765754990068
+    second: Crow_1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,12 +100,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Stripes_0
+      name: Crow_1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 32
+        width: 24
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cb366e4c391a0b730800000000000000
-      internalID: 4012884924022809532
+      spriteID: 4fda6550d245dbf70800000000000000
+      internalID: 9204605765754990068
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Stripes_0: 4012884924022809532
+      Crow_1_0: 9204605765754990068
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
